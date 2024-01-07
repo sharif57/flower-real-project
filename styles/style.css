@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    background: rgba(229, 84, 115, 0.10);
+
+
+
+}
+
+.banner-content img {
+    padding-left: 1045px;
+    margin-top: -1000px;
+
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 60px;
+    padding-right: 30px;
+    padding-bottom: 32px;
+
+}
+
+.banner-text {
+    padding-left: 240px;
+    padding-top: 197px;
+    padding-bottom: 147px;
+    padding-right: 972px;
+
+}
+
+.banner-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 32px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    color: #FFF;
+    background: #E55473;
+    border: 0;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.main-text {
+    padding-top: 178px;
+
+}
+
+.main-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+}
+
+.main-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    padding-left: 650px;
+    padding-right: 650px;
+    padding-top: 24px;
+}
+
+.main-container {
+    padding: 45px 128px 240px 240px;
+    display: flex;
+    justify-content: space-between;
+    width: 464px;
+    height: 538px;
+    gap: 146px;
+}
+
+.div1 img {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 310px;
+    height: 428px;
+}
+
+.upper-para {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+.services {
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: -200px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    align-items: center;
+    height: 320px;
+}
+
+.services {
+    /* justify-content: center;
+
+    width: 88px;
+    height: 88px; */
+
+}
+
+.services p {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.section1 {
+    margin-top: 128px;
+    width: auto;
+    height: 620px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+}
+
+.section-text {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: normal;
+    margin-left: 423px;
+    padding-top: 230px;
+
+}
+
+.section1 p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin-top: 24px;
+
+    padding-left: 395px;
+    * padding-right: 933px;
+
+}
+
+.section1 button {
+    margin-left: 603px;
+    margin-top: 50px;
+}
+
+.section1 img {
+    width: 318px;
+    height: 420px;
+    flex-shrink: 0;
+    margin-right: 420;
+    margin-top: 100px;
+}
+
+.pic-container {
+    margin-top: 48px;
+    margin-left: 160px;
+
+}
+
+.pic-container proflie {
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.background-pic {
+    margin-top: 28px;
+}
+
+.background-pic {
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    margin-left: 140px;
+    height: 450px;
+    margin-right: 133px;
+}
+
+.background-pic #btn {
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    border: 0;
+    margin-left: 300px;
+    margin-bottom: 50px;
+
+}
+
+.background-pic p {
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 48px;
+}
+
+footer {
+    height: 449px;
+    margin-top: 128px;
+    background: #111010;
+}
+.footer-container{
+    padding-top: 128px;
+}
+
+.footer-container h2 {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.footer-container p {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
